@@ -1,0 +1,11 @@
+{
+  "name": "Jenifer - Android Personal AI Voice Assistant",
+  "description": "Production-grade modular Android personal AI voice assistant with voice/text interaction, Gemini AI brain, CameraX ML Kit face detection, phone action intents, and full step-by-step Android Studio architecture masterclass.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
